@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
-    "d3": "^7.8.5",
+    "d3": "^7.9.0",
     "next": "14.1.0",
     "react": "^18",
     "react-bootstrap": "^2.10.0",
@@ -20,6 +20,7 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
+    "package_name": "^1.0.2",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }
